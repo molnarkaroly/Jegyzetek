@@ -39,4 +39,5 @@ Remélem, hasznosnak találod ezeket az anyagokat a tanulás során!
 
 Ha bármi kérdésed vagy javaslatod van, nyugodtan nyiss egy Issue-t a repository-ban.
 
-Jó böngészést és tanulást! ✨
+
+Jó böngészést [és](https://github.com/molnarkaroly/suli_git) tanulást! ✨
