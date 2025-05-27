@@ -31,7 +31,7 @@ Az adatbázis-lekérdezés MySQL esetén (és általában ADO.NET-tel) a követk
 7.  **Kapcsolat Lezárása**: Felszabadítja az erőforrásokat. Erősen ajánlott `using` blokkokat használni a kapcsolatok és parancsok automatikus lezárásához/megsemmisítéséhez.
 
 ## 4. Példa Kód
-```
+```csharp
 using System;
 using MySqlConnector; 
 
@@ -174,4 +174,4 @@ class Program
 *   **ORM-ek (Object-Relational Mappers)**: Komplexebb alkalmazásoknál az ADO.NET közvetlen használata helyett fontolóra veheted ORM eszközök, mint az Entity Framework Core (aminek van MySQL provider-e, pl. `Pomelo.EntityFrameworkCore.MySql`) vagy Dapper használatát.
 
 Ez az útmutató lefedi a `MySqlConnector` használatának alapjait C# konzolos alkalmazásokban. A gyakorlat és a `MySqlConnector` dokumentációjának (elérhető a GitHubon) tanulmányozása segít elmélyíteni a tudásodat!
-```
+## 

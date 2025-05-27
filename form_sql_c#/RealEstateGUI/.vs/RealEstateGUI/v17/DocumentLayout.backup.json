@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71403F0-7D37-4C95-8045-250E5CBD321F}|RealEstateGUI.csproj|c:\\users\\molna\\onedrive\\20250403_kelem\u00E1rton\\realestategui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71403F0-7D37-4C95-8045-250E5CBD321F}|RealEstateGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71403F0-7D37-4C95-8045-250E5CBD321F}|RealEstateGUI.csproj|C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C71403F0-7D37-4C95-8045-250E5CBD321F}|RealEstateGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71403F0-7D37-4C95-8045-250E5CBD321F}|RealEstateGUI.csproj|C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71403F0-7D37-4C95-8045-250E5CBD321F}|RealEstateGUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:15:57.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAmwOcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:44:56.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\molna\\OneDrive\\20250403_KeleM\u00E1rton\\RealEstateGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:31:56.737Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
