@@ -1,7 +1,7 @@
 ## 🎯 Elérhető Jegyzetek:
 
 
-### 📄 **C# Jegyzetek**
+### 📄 **C**[#](https://github.com/kelemarton/PublicC.git) **Jegyzetek**
 
 
 ➡️ **[Részletes C# Jegyzetek Megnyitása](./csharp.md)**
