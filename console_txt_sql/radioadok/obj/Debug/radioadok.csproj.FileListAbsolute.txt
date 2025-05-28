@@ -1,0 +1,56 @@
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\radioadok.exe.config
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\radioadok.exe
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\radioadok.pdb
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\obj\Debug\radioadok.csproj.AssemblyReference.cache
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\obj\Debug\radioadok.csproj.CoreCompileInputs.cache
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\obj\Debug\radioadok.exe
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\obj\Debug\radioadok.pdb
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\MySqlConnector.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Buffers.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Memory.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Numerics.Vectors.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\MySqlConnector.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Buffers.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Memory.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Numerics.Vectors.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\12) Asztali Alkalmazásfejlesztés\20250410_KeleMárton\radioadok\obj\Debug\radioadok.csproj.Up2Date
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\radioadok.exe.config
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\radioadok.exe
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\radioadok.pdb
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\MySqlConnector.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Buffers.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Memory.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\MySqlConnector.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Buffers.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Memory.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\obj\Debug\radioadok.csproj.AssemblyReference.cache
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\obj\Debug\radioadok.csproj.CoreCompileInputs.cache
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\obj\Debug\radioadok.csproj.Up2Date
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\obj\Debug\radioadok.exe
+C:\Users\molna\OneDrive\20250410_KeleMárton\radioadok\obj\Debug\radioadok.pdb
